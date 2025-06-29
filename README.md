@@ -1,6 +1,6 @@
 # Santosh Adhikari | Portfolio
 
-![Portfolio Banner](https://santoshadhikari.info.np/assets/banner.jpg)
+![Portfolio Banner](https://santoshadhikari.info.np)
 
 Welcome to my portfolio! I'm **Santosh Adhikari**, a passionate **Web and Application Developer** with **3+ years of experience** building high-quality, user-centric web and mobile applications. My goal is to create innovative and scalable solutions that solve real-world problems and delight clients.
 
