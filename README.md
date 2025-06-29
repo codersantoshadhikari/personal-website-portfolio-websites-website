@@ -1,6 +1,6 @@
 # Santosh Adhikari | Portfolio
 
-![https://avatars.githubusercontent.com/u/122032759?s=400&u=c30c15c4325312bcbea1d09f38b6496295457703&v=4)
+[![https://avatars.githubusercontent.com/u/122032759?s=400&u=c30c15c4325312bcbea1d09f38b6496295457703&v=4)](https://avatars.githubusercontent.com/u/122032759?s=400&u=c30c15c4325312bcbea1d09f38b6496295457703&v=4)
 
 Welcome to my portfolio! I'm **Santosh Adhikari**, a passionate **Web and Application Developer** with **3+ years of experience** building high-quality, user-centric web and mobile applications. My goal is to create innovative and scalable solutions that solve real-world problems and delight clients.
 
